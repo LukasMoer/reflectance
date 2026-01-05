@@ -1,7 +1,7 @@
 # Reflectance of optical multilayer coatings
 Calculation using the <b>transfer matrix method</b> according to
 
-Pedrotti, F. L., Pedrotti, L. S., Bausch, W., & Schmidt, H. (2005). Optik für Ingenieure. In Springer eBooks. https://doi.org/10.1007/b139018 Seite 554-559
+Pedrotti, F. L., Pedrotti, L. S., Bausch, W., & Schmidt, H. (2005). Optik für Ingenieure. In Springer eBooks. https://doi.org/10.1007/b139018 Pages  554-559
 
 For each layer i (substrate and air not included) with refractive index $n_i$ and thickness $d_i$, there is a transfer matrix $M_i$
 
@@ -22,10 +22,11 @@ $$\delta_i = {{2 \pi}\over{\lambda_0}}n_i d_i cos\theta_i$$
 
 <li>angle of incidence $\theta_i$ in the respective medium according to Snell's law of refraction. Is not the original angle of incidence $\theta_0$. Measured relative to the perpendicular.</li>
 </ul>
-And the $\gamma$-parameter:
+
+And the $\gamma$  -parameter:
 
 $$\gamma_i = {{n_i}\over {c_0}} cos\theta_i$$
-<ul><li>$c_0$speed of light in vacuum</li></ul>
+<ul><li>c<sub>0</sub> speed of light in vacuum</li></ul>
 
 The matrices of the layers are multiplied to get an overall transfer matrix.
 $$M_{ges}=M_1 \cdot M_2 \cdot ... M_N$$
