@@ -1,4 +1,21 @@
 # Reflectance of optical multilayer coatings
+## How to use
+<b>Step 1</b>: Save the python script into a directory of choice.
+
+<b>Step 2</b>: Gather refractive index data of the involved materials. A good source for that is https://refractiveindex.info/
+
+<b>Step 3</b> Save the refractive index data in the directory. This repository contains some random dummy data for the sake of example, to demonstrate the convention. CSV files are used, filenames are named like "n_SiO2.csv". Each row contains a datapoint "wavelenghth (nm); real refractive index;extinction coefficient", using ";" as separators
+
+<code>wl;nr;k
+400;1.2;0.1
+500;1.3;0.2</code>
+...
+
+<b>Step 4</b> Open the python script and define the user inputs
+
+<b>Step 5</b> Run the script
+
+## Theory
 Calculation using the <b>transfer matrix method</b> according to
 
 Pedrotti, F. L., Pedrotti, L. S., Bausch, W., & Schmidt, H. (2005). Optik für Ingenieure. In Springer eBooks. https://doi.org/10.1007/b139018 Pages  554-559
