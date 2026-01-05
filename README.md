@@ -15,7 +15,9 @@
 <p align="center"><img  src="https://github.com/LukasMoer/reflectance/blob/main/coatings.png" width=400 align="center"></p>
 <b>Step 5</b> Run the script
 <p align="center"><img  src="https://github.com/LukasMoer/reflectance/blob/main/reflectance.png" width=400 align="center"></p>
+
 ## Theory
+
 Calculation using the <b>transfer matrix method</b> according to
 
 Pedrotti, F. L., Pedrotti, L. S., Bausch, W., & Schmidt, H. (2005). Optik für Ingenieure. In Springer eBooks. https://doi.org/10.1007/b139018 Pages  554-559
