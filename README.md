@@ -12,9 +12,9 @@
 ...
 
 <b>Step 4</b> Open the python script and define the user inputs
-
+<p align="center"><img  src="https://github.com/LukasMoer/reflectance/blob/main/coatings.png" width=400 align="center"></p>
 <b>Step 5</b> Run the script
-
+<p align="center"><img  src="https://github.com/LukasMoer/reflectance/blob/main/reflectance.png" width=400 align="center"></p>
 ## Theory
 Calculation using the <b>transfer matrix method</b> according to
 
